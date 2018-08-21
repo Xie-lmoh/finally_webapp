@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/x_common/x_common.iml" filepath="$PROJECT_DIR$/x_common/x_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_manager/x_manager.iml" filepath="$PROJECT_DIR$/x_manager/x_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_manager/x_manager_dao/x_manager_dao.iml" filepath="$PROJECT_DIR$/x_manager/x_manager_dao/x_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_manager/x_manager_interface/x_manager_interface.iml" filepath="$PROJECT_DIR$/x_manager/x_manager_interface/x_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_manager/x_manager_pojo/x_manager_pojo.iml" filepath="$PROJECT_DIR$/x_manager/x_manager_pojo/x_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_manager/x_manager_service/x_manager_service.iml" filepath="$PROJECT_DIR$/x_manager/x_manager_service/x_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_manager/x_manager_web/x_manager_web.iml" filepath="$PROJECT_DIR$/x_manager/x_manager_web/x_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x_parent/x_parent.iml" filepath="$PROJECT_DIR$/x_parent/x_parent.iml" />
+    </modules>
+  </component>
+</project>
